@@ -1,0 +1,2 @@
+# Memcache-App-Project-on-AWS
+### This is a Memcache Application for deploying a photo gallery into AWS Platform using some services like EC2, RDS, S3, Auto Scaling Group and CloudWatch. The project contains 2 nodes. The manager_app node controls the configurations of the applications and shows the statistics of it for the last 30 minutes. The user_interface node is the node that we use to scale out and in of the nodes in our working pool which corresponds to the load on the website.
